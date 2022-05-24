@@ -1,4 +1,5 @@
 # restaurant
+Aplicativo desenvolvido como projeto final do curso FrontStart by Isadora Stangarlin.
 
 ## Project setup
 ```
